@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog">
+    <sc_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <background_color>white</background_color>
+        <description>Here you can ordet technical products</description>
+        <desktop_continue_shopping/>
+        <desktop_home_page/>
+        <desktop_image/>
+        <editors/>
+        <enable_wish_list>false</enable_wish_list>
+        <manager/>
+        <sys_class_name>sc_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-15 12:09:33</sys_created_on>
+        <sys_id>a06aa65bdbe23300cba9cd3f299619af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Order technical products</sys_name>
+        <sys_package display_value="TIPO" source="x_374540_tipo">7c09a617dbe23300cba9cd3f2996195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TIPO">7c09a617dbe23300cba9cd3f2996195a</sys_scope>
+        <sys_update_name>sc_catalog_a06aa65bdbe23300cba9cd3f299619af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-15 12:09:33</sys_updated_on>
+        <title>Order technical products</title>
+    </sc_catalog>
+    <sys_translated_text action="delete_multiple" query="documentkey=a06aa65bdbe23300cba9cd3f299619af"/>
+</record_update>
