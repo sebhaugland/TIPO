@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Technical orders still awaiting Director Approval">59eb8e26dbf23300cba9cd3f29961946</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-25 12:16:00</sys_created_on>
+        <sys_id>11eb8e26dbf23300cba9cd3f29961947</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>59eb8e26dbf23300cba9cd3f29961946</sys_name>
+        <sys_package display_value="TIPO" source="x_374540_tipo">7c09a617dbe23300cba9cd3f2996195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TIPO">7c09a617dbe23300cba9cd3f2996195a</sys_scope>
+        <sys_update_name>sys_report_users_groups_11eb8e26dbf23300cba9cd3f29961947</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-25 12:16:00</sys_updated_on>
+        <user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id>
+    </sys_report_users_groups>
+</record_update>

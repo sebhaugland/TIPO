@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item/>
+        <catalog_variable>IO:586aed63db1f3300cba9cd3f2996192c</catalog_variable>
+        <cleared>true</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-22 08:57:39</sys_created_on>
+        <sys_id>39faa5a3db1f3300cba9cd3f29961949</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>what_is_the_earliest_date_that_the_hardw</sys_name>
+        <sys_package display_value="TIPO" source="x_374540_tipo">7c09a617dbe23300cba9cd3f2996195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TIPO">7c09a617dbe23300cba9cd3f2996195a</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_39faa5a3db1f3300cba9cd3f29961949</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-22 08:57:39</sys_updated_on>
+        <table/>
+        <ui_policy display_value="IfCheckboxIsTrueSpawnVarSetForDismantlingDates">c9cae1a3db1f3300cba9cd3f299619a6</ui_policy>
+        <variable>what_is_the_earliest_date_that_the_hardw</variable>
+        <variable_set display_value="Hardware dismantling VarSet">b9f96963db1f3300cba9cd3f299619cb</variable_set>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

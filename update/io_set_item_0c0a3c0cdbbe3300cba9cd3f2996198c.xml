@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>400</order>
+        <sc_cat_item display_value="Contact Center order">20720723db623300cba9cd3f299619d3</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-17 11:53:23</sys_created_on>
+        <sys_id>0c0a3c0cdbbe3300cba9cd3f2996198c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Agreement info.Contact Center</sys_name>
+        <sys_package display_value="TIPO" source="x_374540_tipo">7c09a617dbe23300cba9cd3f2996195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TIPO">7c09a617dbe23300cba9cd3f2996195a</sys_scope>
+        <sys_update_name>io_set_item_0c0a3c0cdbbe3300cba9cd3f2996198c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-17 11:53:23</sys_updated_on>
+        <variable_set display_value="Agreement info">87753c48dbbe3300cba9cd3f29961963</variable_set>
+    </io_set_item>
+</record_update>

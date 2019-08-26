@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Relocation of Technical Products">cb193a95dbf23700cba9cd3f29961952</sc_cat_item>
+        <sc_catalog display_value="Relocation Technical Products Catalog">8db9fe95dbf23700cba9cd3f299619b0</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>SRNK</sys_created_by>
+        <sys_created_on>2019-07-21 18:26:15</sys_created_on>
+        <sys_id>7d4ab6d5dbf23700cba9cd3f2996197d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Relocation Technical Products Catalog.Relocation of Technical Products</sys_name>
+        <sys_package display_value="TIPO" source="x_374540_tipo">7c09a617dbe23300cba9cd3f2996195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TIPO">7c09a617dbe23300cba9cd3f2996195a</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_7d4ab6d5dbf23700cba9cd3f2996197d</sys_update_name>
+        <sys_updated_by>SRNK</sys_updated_by>
+        <sys_updated_on>2019-07-21 18:26:15</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

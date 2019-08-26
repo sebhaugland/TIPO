@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>sc_req_item</collection>
+        <email_layout display_value="Demo Layout - Light">993a2d81c33112002841b63b12d3aed4</email_layout>
+        <message/>
+        <message_html/>
+        <message_list/>
+        <message_text><![CDATA[Hi Nokia
+
+Please perform a Desktop Analysis based on the following:
+
+Site ID: ${current.variables.site_id}
+Site Name: ${current.variables.site_name}
+Site Address: ${current.variables.site_address}
+Time of the request: ${current.variables.time_of_the_request}
+PO ID: ${current.variables.purchase_order_id}
+Telenor Solution Designer Name: ${current.variables.name_of_solution_designer}
+Telenor Requester Name: ${request.requested_for}
+
+Best Regards
+Telenor]]></message_text>
+        <name>Mobile Coverage Analysis template</name>
+        <sms_alternate/>
+        <subject>Mobile Coverage Analysis</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>SRNK</sys_created_by>
+        <sys_created_on>2019-08-12 12:46:02</sys_created_on>
+        <sys_id>21eef69cdbd33300cba9cd3f2996195f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Mobile Coverage Analysis template</sys_name>
+        <sys_package display_value="TIPO" source="x_374540_tipo">7c09a617dbe23300cba9cd3f2996195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TIPO">7c09a617dbe23300cba9cd3f2996195a</sys_scope>
+        <sys_update_name>sysevent_email_template_21eef69cdbd33300cba9cd3f2996195f</sys_update_name>
+        <sys_updated_by>SRNK</sys_updated_by>
+        <sys_updated_on>2019-08-12 12:46:22</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+</record_update>

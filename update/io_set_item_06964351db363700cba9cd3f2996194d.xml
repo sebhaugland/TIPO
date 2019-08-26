@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>200</order>
+        <sc_cat_item display_value="Direkte Linje Configuration Change">9c258fdddbf23700cba9cd3f29961940</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>SRNK</sys_created_by>
+        <sys_created_on>2019-07-21 19:20:03</sys_created_on>
+        <sys_id>06964351db363700cba9cd3f2996194d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Business case number.Direkte Linje</sys_name>
+        <sys_package display_value="TIPO" source="x_374540_tipo">7c09a617dbe23300cba9cd3f2996195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TIPO">7c09a617dbe23300cba9cd3f2996195a</sys_scope>
+        <sys_update_name>io_set_item_06964351db363700cba9cd3f2996194d</sys_update_name>
+        <sys_updated_by>SRNK</sys_updated_by>
+        <sys_updated_on>2019-07-21 19:20:03</sys_updated_on>
+        <variable_set display_value="Business case number">cb7b2cc0dbbe3300cba9cd3f299619f0</variable_set>
+    </io_set_item>
+</record_update>

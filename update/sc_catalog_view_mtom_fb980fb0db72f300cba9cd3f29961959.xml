@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="Configuration Change Technical Products">5c880fb0db72f300cba9cd3f299619c0</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>SRNK</sys_created_by>
+        <sys_created_on>2019-07-20 06:11:57</sys_created_on>
+        <sys_id>fb980fb0db72f300cba9cd3f29961959</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Configuration Technical Products.catalog_configuration_technical_products</sys_name>
+        <sys_package display_value="TIPO" source="x_374540_tipo">7c09a617dbe23300cba9cd3f2996195a</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_configuration_technical_products">73980fb0db72f300cba9cd3f29961959</sys_portal_page>
+        <sys_scope display_value="TIPO">7c09a617dbe23300cba9cd3f2996195a</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_fb980fb0db72f300cba9cd3f29961959</sys_update_name>
+        <sys_updated_by>SRNK</sys_updated_by>
+        <sys_updated_on>2019-07-20 06:11:57</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

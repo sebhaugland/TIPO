@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_guide_items">
+    <sc_cat_item_guide_items action="INSERT_OR_UPDATE">
+        <condition>IO:73779a14db3e7300cba9cd3f299619da=true^EQ</condition>
+        <guide display_value="Request order of technical products">7066dad0db3e7300cba9cd3f29961999</guide>
+        <ignore_mandatory_eval>false</ignore_mandatory_eval>
+        <item display_value="Internet Access order">7680cfafdb223300cba9cd3f29961919</item>
+        <order/>
+        <quantity>1</quantity>
+        <requested_by/>
+        <requested_for/>
+        <show_quantity>false</show_quantity>
+        <sys_class_name>sc_cat_item_guide_items</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-18 13:22:17</sys_created_on>
+        <sys_id>40b75e14db3e7300cba9cd3f29961930</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7680cfafdb223300cba9cd3f29961919</sys_name>
+        <sys_package display_value="TIPO" source="x_374540_tipo">7c09a617dbe23300cba9cd3f2996195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TIPO">7c09a617dbe23300cba9cd3f2996195a</sys_scope>
+        <sys_update_name>sc_cat_item_guide_items_40b75e14db3e7300cba9cd3f29961930</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-18 13:22:17</sys_updated_on>
+        <use_sc_layout>true</use_sc_layout>
+    </sc_cat_item_guide_items>
+</record_update>

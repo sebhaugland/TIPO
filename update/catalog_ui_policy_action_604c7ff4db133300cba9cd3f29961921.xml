@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item/>
+        <catalog_variable>IO:f3177b39dbba7700cba9cd3f29961938</catalog_variable>
+        <cleared>true</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-14 06:29:08</sys_created_on>
+        <sys_id>604c7ff4db133300cba9cd3f29961921</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>email_of_technical_contact_person</sys_name>
+        <sys_package display_value="TIPO" source="x_374540_tipo">7c09a617dbe23300cba9cd3f2996195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TIPO">7c09a617dbe23300cba9cd3f2996195a</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_604c7ff4db133300cba9cd3f29961921</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-22 07:00:07</sys_updated_on>
+        <table/>
+        <ui_policy display_value="CheckboxWillSpawnVariablesForTechnicalContactPerson">2acbb7f4db133300cba9cd3f299619ea</ui_policy>
+        <variable>email_of_technical_contact_person</variable>
+        <variable_set display_value="Customer info">52582840dbbe3300cba9cd3f299619cc</variable_set>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

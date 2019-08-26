@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_source">
+    <sys_report_source action="INSERT_OR_UPDATE">
+        <description/>
+        <display>AgreementhLenghtPriceReq (Variables)</display>
+        <filter table="sc_item_variables_task">variable.cat_item.active=true<item endquery="false" field="variable.cat_item.active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </filter>
+        <name>AgreementhLenghtPriceReq</name>
+        <sys_class_name>sys_report_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-26 07:46:49</sys_created_on>
+        <sys_id>10c61676db7e3300cba9cd3f299619d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AgreementhLenghtPriceReq (Variables)</sys_name>
+        <sys_package display_value="TIPO" source="x_374540_tipo">7c09a617dbe23300cba9cd3f2996195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TIPO">7c09a617dbe23300cba9cd3f2996195a</sys_scope>
+        <sys_update_name>sys_report_source_10c61676db7e3300cba9cd3f299619d6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-26 07:46:49</sys_updated_on>
+        <table>sc_item_variables_task</table>
+    </sys_report_source>
+</record_update>

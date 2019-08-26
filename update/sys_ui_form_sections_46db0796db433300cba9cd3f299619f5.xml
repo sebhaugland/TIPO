@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="46db0796db433300cba9cd3f299619f5" sys_domain="global" table="sc_req_item" version="3">
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>sc_req_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>SRNK</sys_created_by>
+            <sys_created_on>2019-08-06 08:32:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>46db0796db433300cba9cd3f299619f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sc_req_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="TIPO" source="x_374540_tipo">7c09a617dbe23300cba9cd3f2996195a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TIPO">7c09a617dbe23300cba9cd3f2996195a</sys_scope>
+            <sys_update_name>sys_ui_form_sections_46db0796db433300cba9cd3f299619f5</sys_update_name>
+            <sys_updated_by>SRNK</sys_updated_by>
+            <sys_updated_on>2019-08-06 08:32:36</sys_updated_on>
+            <sys_user/>
+            <view display_value="Sorens Overblik Test" name="Sorens_Overblik_Test">14ab4b56db433300cba9cd3f29961902</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

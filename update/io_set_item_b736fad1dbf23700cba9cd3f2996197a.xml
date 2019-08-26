@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>200</order>
+        <sc_cat_item display_value="Direkte Linje Price Request">c29aae19dbb23700cba9cd3f299619b1</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>SRNK</sys_created_by>
+        <sys_created_on>2019-07-21 18:08:38</sys_created_on>
+        <sys_id>b736fad1dbf23700cba9cd3f2996197a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Agreement Info for Price Request.Direkte Linje Price Request</sys_name>
+        <sys_package display_value="TIPO" source="x_374540_tipo">7c09a617dbe23300cba9cd3f2996195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TIPO">7c09a617dbe23300cba9cd3f2996195a</sys_scope>
+        <sys_update_name>io_set_item_b736fad1dbf23700cba9cd3f2996197a</sys_update_name>
+        <sys_updated_by>SRNK</sys_updated_by>
+        <sys_updated_on>2019-07-21 18:08:38</sys_updated_on>
+        <variable_set display_value="Agreement Info for Price Request">d223fa51dbf23700cba9cd3f2996196a</variable_set>
+    </io_set_item>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_ng_template">
+    <sp_ng_template action="INSERT_OR_UPDATE">
+        <id>templateToShowCompanyName</id>
+        <sp_widget display_value="Copy of My Requests">69230d13db133300cba9cd3f29961909</sp_widget>
+        <sys_class_name>sp_ng_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-21 12:08:59</sys_created_on>
+        <sys_id>bf1d01dfdb133300cba9cd3f2996198f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>templateToShowCompanyName</sys_name>
+        <sys_package display_value="TIPO" source="x_374540_tipo">7c09a617dbe23300cba9cd3f2996195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TIPO">7c09a617dbe23300cba9cd3f2996195a</sys_scope>
+        <sys_update_name>sp_ng_template_bf1d01dfdb133300cba9cd3f2996198f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-21 12:08:59</sys_updated_on>
+        <template><![CDATA[<p ng-if="item.variables.question"><h4><b>${Job}:</b> </h4></p> ]]></template>
+    </sp_ng_template>
+</record_update>

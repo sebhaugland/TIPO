@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <description>Order to Nokia - Mobile Coverage Analysis Workflow</description>
+        <event_name>x_374540_tipo.Order.Nokia</event_name>
+        <fired_by>Mobile Coverage Analysis Workflow</fired_by>
+        <queue/>
+        <suffix>Order.Nokia</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>SRNK</sys_created_by>
+        <sys_created_on>2019-08-13 07:07:55</sys_created_on>
+        <sys_id>e66bba28db133300cba9cd3f29961947</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_374540_tipo.Order.Nokia</sys_name>
+        <sys_package display_value="TIPO" source="x_374540_tipo">7c09a617dbe23300cba9cd3f2996195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TIPO">7c09a617dbe23300cba9cd3f2996195a</sys_scope>
+        <sys_update_name>sysevent_register_e66bba28db133300cba9cd3f29961947</sys_update_name>
+        <sys_updated_by>SRNK</sys_updated_by>
+        <sys_updated_on>2019-08-13 07:07:55</sys_updated_on>
+        <table>sc_req_item</table>
+    </sysevent_register>
+</record_update>

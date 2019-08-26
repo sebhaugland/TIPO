@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category display_value="Technical Products">9d579ffddb3a7700cba9cd3f29961972</category>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <entitlement_script/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Change of config</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>30</order>
+        <ordered_item_link/>
+        <picture>2028e173db323300cba9cd3f299619e6</picture>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=887f1492dbb23300cba9cd3f29961967&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <request_method/>
+        <roles/>
+        <sc_catalogs>4454c3f1db3a7700cba9cd3f2996192d</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <short_description>Fill out below information to start changes on a product/service</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-24 09:44:53</sys_created_on>
+        <sys_id>887f1492dbb23300cba9cd3f29961967</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Change of config</sys_name>
+        <sys_package display_value="TIPO" source="x_374540_tipo">7c09a617dbe23300cba9cd3f2996195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TIPO">7c09a617dbe23300cba9cd3f2996195a</sys_scope>
+        <sys_update_name>sc_cat_item_887f1492dbb23300cba9cd3f29961967</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-19 06:37:08</sys_updated_on>
+        <template/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow display_value="Change workflow">ab46b314db033300cba9cd3f299619db</workflow>
+    </sc_cat_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=887f1492dbb23300cba9cd3f29961967"/>
+    <fx_price action="delete_multiple" query="id=887f1492dbb23300cba9cd3f29961967"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="DKK">DKK</currency>
+        <field>price</field>
+        <id>887f1492dbb23300cba9cd3f29961967</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-24 09:44:53</sys_created_on>
+        <sys_id>0ebfd492dbb23300cba9cd3f29961961</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-24 09:44:53</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>887f1492dbb23300cba9cd3f29961967</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-24 09:44:53</sys_created_on>
+        <sys_id>46bfd492dbb23300cba9cd3f29961962</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-24 09:44:53</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#ffffff</average_image_color>
+        <chunk_size_bytes>734003</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <file_name>picture</file_name>
+        <image_height>230</image_height>
+        <image_width>219</image_width>
+        <size_bytes>3615</size_bytes>
+        <size_compressed>3438</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-29 06:52:09</sys_created_on>
+        <sys_id>2028e173db323300cba9cd3f299619e6</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>guest</sys_updated_by>
+        <sys_updated_on>2019-07-29 06:52:11</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>887f1492dbb23300cba9cd3f29961967</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="picture" sys_id="2028e173db323300cba9cd3f299619e6">2028e173db323300cba9cd3f299619e6</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-29 06:52:09</sys_created_on>
+        <sys_id>6028e173db323300cba9cd3f299619e6</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>4572</length>
+        <position>1</position>
+        <sys_attachment display_value="picture" sys_id="2028e173db323300cba9cd3f299619e6">2028e173db323300cba9cd3f299619e6</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-29 06:52:09</sys_created_on>
+        <sys_id>e028e173db323300cba9cd3f299619e6</sys_id>
+    </sys_attachment_doc>
+</record_update>

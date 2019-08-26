@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Change of config">887f1492dbb23300cba9cd3f29961967</catalog_item>
+        <catalog_variable>IO:2b896a59db173300cba9cd3f29961999</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-15 13:04:51</sys_created_on>
+        <sys_id>6b606ad1db173300cba9cd3f299619d3</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>choosetypeofchangeselectbox</sys_name>
+        <sys_package display_value="TIPO" source="x_374540_tipo">7c09a617dbe23300cba9cd3f2996195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TIPO">7c09a617dbe23300cba9cd3f2996195a</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_6b606ad1db173300cba9cd3f299619d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-15 13:51:59</sys_updated_on>
+        <table/>
+        <ui_policy display_value="SpawnVariablesForMDA">6100ea91db173300cba9cd3f29961910</ui_policy>
+        <variable>choosetypeofchangeselectbox</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

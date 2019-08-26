@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Direkte Linje order">e5f10fefdb223300cba9cd3f2996193e</sc_cat_item>
+        <sc_catalog display_value="Order technical products">a06aa65bdbe23300cba9cd3f299619af</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-16 08:30:56</sys_created_on>
+        <sys_id>f412c323db623300cba9cd3f299619be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Order technical products.Direkte Linje</sys_name>
+        <sys_package display_value="TIPO" source="x_374540_tipo">7c09a617dbe23300cba9cd3f2996195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TIPO">7c09a617dbe23300cba9cd3f2996195a</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_f412c323db623300cba9cd3f299619be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-16 08:30:56</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

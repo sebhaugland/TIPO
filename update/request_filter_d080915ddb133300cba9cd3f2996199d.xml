@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="request_filter">
+    <request_filter action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <applies_to>0</applies_to>
+        <filter table="sc_req_item">cat_item=ecc16339db7a7700cba9cd3f299619b8^EQ<item display_table="sc_cat_item" display_value="Price quotation for technical products" endquery="false" field="cat_item" goto="false" newquery="false" operator="=" or="false" value="ecc16339db7a7700cba9cd3f299619b8"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <group/>
+        <last_used/>
+        <mobile>false</mobile>
+        <portal_page display_value="ticket">84af292247132100ba13a5554ee4909e</portal_page>
+        <primary_display>short_description</primary_display>
+        <roles/>
+        <secondary_display/>
+        <short_description/>
+        <sys_class_name>request_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-15 07:18:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d080915ddb133300cba9cd3f2996199d</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>RequestViewWithCompanyName</sys_name>
+        <sys_package display_value="TIPO" source="x_374540_tipo">7c09a617dbe23300cba9cd3f2996195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TIPO">7c09a617dbe23300cba9cd3f2996195a</sys_scope>
+        <sys_update_name>request_filter_d080915ddb133300cba9cd3f2996199d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-20 07:35:11</sys_updated_on>
+        <table>sc_req_item</table>
+        <table_name/>
+        <title>RequestViewWithCompanyName</title>
+        <user/>
+    </request_filter>
+    <sys_translated_text action="delete_multiple" query="documentkey=d080915ddb133300cba9cd3f2996199d"/>
+</record_update>

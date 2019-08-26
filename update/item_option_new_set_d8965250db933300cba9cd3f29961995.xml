@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="INSERT_OR_UPDATE">
+        <create_roles/>
+        <description/>
+        <display_title>false</display_title>
+        <internal_name>installation_info_direkte_linje</internal_name>
+        <layout>normal</layout>
+        <name/>
+        <order>600</order>
+        <read_roles/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-12 09:48:01</sys_created_on>
+        <sys_id>d8965250db933300cba9cd3f29961995</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Installation info Direkte Linje VarSet</sys_name>
+        <sys_package display_value="TIPO" source="x_374540_tipo">7c09a617dbe23300cba9cd3f2996195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TIPO">7c09a617dbe23300cba9cd3f2996195a</sys_scope>
+        <sys_update_name>item_option_new_set_d8965250db933300cba9cd3f29961995</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-13 07:27:41</sys_updated_on>
+        <title>Installation info Direkte Linje VarSet</title>
+        <type>one_to_many</type>
+        <write_roles/>
+    </item_option_new_set>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Request order of technical products">7066dad0db3e7300cba9cd3f29961999</sc_cat_item>
+        <sc_category display_value="Order technical products">f1a06ed8db3e7300cba9cd3f299619d3</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>SRNK</sys_created_by>
+        <sys_created_on>2019-07-22 11:21:19</sys_created_on>
+        <sys_id>4b922ea1db7e3700cba9cd3f299619e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Order technical products.Request order of technical products</sys_name>
+        <sys_package display_value="TIPO" source="x_374540_tipo">7c09a617dbe23300cba9cd3f2996195a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TIPO">7c09a617dbe23300cba9cd3f2996195a</sys_scope>
+        <sys_update_name>sc_cat_item_category_4b922ea1db7e3700cba9cd3f299619e6</sys_update_name>
+        <sys_updated_by>SRNK</sys_updated_by>
+        <sys_updated_on>2019-07-22 11:21:19</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
